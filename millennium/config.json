@@ -1,0 +1,80 @@
+{
+  "general": {
+    "injectJavascript": true,
+    "injectCSS": true,
+    "checkForMillenniumUpdates": true,
+    "checkForPluginAndThemeUpdates": true,
+    "onMillenniumUpdate": 2,
+    "shouldShowThemePluginUpdateNotifications": true,
+    "accentColor": "#a30000"
+  },
+  "misc": {
+    "hasShownWelcomeModal": true
+  },
+  "themes": {
+    "activeTheme": "Steam",
+    "allowedStyles": true,
+    "allowedScripts": true,
+    "conditions": {
+      "Steam": {
+        "General - Navigation buttons": "no",
+        "General - Wallet balance": "no",
+        "General - Steam VR button": "no",
+        "General - Big Picture Mode button": "no",
+        "General - News button": "no",
+        "General - Notification button": "no",
+        "General - Friend list button": "no",
+        "General - Font": "Be Vietnam Pro (default)",
+        "General - System accent colors": "no",
+        "General - Mica & Acrylic plugin support": "no",
+        "General - Window Controls": "no",
+        "General - Achievement Notification": "no",
+        "General - Userpannel": "no",
+        "General - Game Overlay": "no",
+        "Store - SteamDeck & Giftcard": "Show",
+        "Store - Broadcast": "no",
+        "Store - Info sidebar on right": "no",
+        "Store - Recommendations": "no",
+        "Store - Sidebar only on hover": "no",
+        "Store - URL bar": "no",
+        "Store - Gamepage": "no",
+        "Library - What's New": "Compact",
+        "Library - Add shelf button": "no",
+        "Library - Game cover shiny effect": "no",
+        "Library - Banner position": "Middle (default)",
+        "Library - Bigger banner": "no",
+        "Library - Steam-Custom-Artowrks Support": "no",
+        "Library - Always show game infos": "no",
+        "Library - Game info box artwork": "no",
+        "Library - Sidebar on left": "no",
+        "Community - VAC-Ban visibility": "Show"
+      }
+    },
+    "themeColors": {
+      "Steam": {
+        "--accent-1": "180, 49, 49",
+        "--accent-2": "173, 20, 20",
+        "--color-1": "17, 17, 17",
+        "--color-2": "30, 30, 30",
+        "--color-3": "20, 20, 20",
+        "--color-4": "24, 24, 24",
+        "--color-5": "38, 41, 44",
+        "--color-6": "38, 38, 41",
+        "--background": "10, 10, 10",
+        "--red": "240, 74, 74",
+        "--red-hover": "242, 99, 99",
+        "--green": "36, 166, 90",
+        "--green-hover": "39, 185, 100",
+        "--blue": "129, 8, 8",
+        "--blue-hover": "109, 28, 28",
+        "--yellow": "239, 141, 75",
+        "--yellow-hover": "239, 141, 75"
+      }
+    }
+  },
+  "notifications": {
+    "showNotifications": true,
+    "showUpdateNotifications": true,
+    "showPluginNotifications": true
+  }
+}
