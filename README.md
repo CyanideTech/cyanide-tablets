@@ -13,4 +13,3 @@ git clone https://github.com/CyanideTech/cyanide-tablets.git
 cd cyanide-tablets
 chmod +x ./install.sh
 ./install.sh
-'''
