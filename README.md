@@ -1,7 +1,7 @@
 # cyanide-tablets 🧪💊  
 ### My personal Hyprland dotfiles – sleek, minimal, and deadly.
 
-![screenshot](./screenshots/main.png) <!-- Replace with actual screenshot path -->
+![screenshot](/screenshots/main.png) <!-- Replace with actual screenshot path -->
 
 ## 🧠 About
 
