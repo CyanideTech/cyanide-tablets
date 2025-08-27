@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-mkdir ~/Pictures
+mkdir -p ~/Pictures
 
 sudo pacman -S waybar
 sudo pacman -S hyprpaper
